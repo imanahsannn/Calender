@@ -1,9 +1,3 @@
-/**
- * Class Name: Calender
- * Programmer: Iman Ahsan
- * Date: Nov 4 2020
- * Description: Makes an event for calender
- */
 package ahsan_culm;
 
 public class Calender {
