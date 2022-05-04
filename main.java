@@ -1,9 +1,3 @@
-/**
- * Program Name: Ahsan_culm
- * Programmer: Iman Ahsan
- * Date: Nov 4 2020 
- * Description: Culminating for 4U :(
- */
 package ahsan_culm;
 
 import java.io.*;
